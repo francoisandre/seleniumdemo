@@ -1,0 +1,8 @@
+gmos:
+    address: https://gmos.aeris-data.fr
+    
+webdriver:
+    gecko:
+        driver: /home/fandrelocal/geckodriver
+    
+          
